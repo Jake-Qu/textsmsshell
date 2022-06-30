@@ -11,15 +11,15 @@
 <pre><code>cd /root/textsmsshell<br />
 ./sendsmsbomb.sh -n 1 '+8615011111111'
 </code></pre><br />
-### 使用本脚本必须遵守国家的有关法律法规 <br />
+###使用本脚本必须遵守国家的有关法律法规 <br />
 <br />
 <p>2.用自己的的代理文件</p>
 <pre><code>cd /root/textsmsshell<br />
 ./sendsmsbomb.sh -f /data/list '+8615011111111'
 </code></pre><br />
-### 注意由于是国外接口，必须加国号同时要写‘+’<br/>
+###注意由于是国外接口，必须加国号同时要写‘+’<br/>
 <br/>
 <br/>
 
-##### 使用本脚本必须遵守国家的有关法律法规 
+#####使用本脚本必须遵守国家的有关法律法规 
 
